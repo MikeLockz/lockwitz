@@ -1,0 +1,27 @@
+[17-May-2011 18:37:20] PHP Parse error:  syntax error, unexpected ':' in /home/lockw4/public_html/wheresmichael/foursquare.php on line 2
+[17-May-2011 18:38:46] PHP Parse error:  syntax error, unexpected ':' in /home/lockw4/public_html/wheresmichael/foursquare.php on line 2
+[17-May-2011 18:38:53] PHP Parse error:  syntax error, unexpected ':' in /home/lockw4/public_html/wheresmichael/foursquare.php on line 2
+[17-May-2011 18:38:55] PHP Parse error:  syntax error, unexpected ':' in /home/lockw4/public_html/wheresmichael/foursquare.php on line 2
+[17-May-2011 18:41:05] PHP Parse error:  syntax error, unexpected '=' in /home/lockw4/public_html/wheresmichael/foursquare.php on line 17
+[17-May-2011 20:11:52] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/lockw4/public_html/wheresmichael/index.php on line 5
+[17-May-2011 21:42:26] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/lockw4/public_html/wheresmichael/index.php on line 5
+[17-May-2011 21:42:46] PHP Fatal error:  Function name must be a string in /home/lockw4/public_html/wheresmichael/index.php on line 2
+[17-May-2011 21:43:00] PHP Fatal error:  Function name must be a string in /home/lockw4/public_html/wheresmichael/index.php on line 2
+[17-May-2011 21:43:18] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/lockw4/public_html/wheresmichael/index.php on line 5
+[17-May-2011 21:46:16] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/lockw4/public_html/wheresmichael/index.php on line 5
+[17-May-2011 21:46:25] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/lockw4/public_html/wheresmichael/index.php on line 5
+[17-May-2011 21:46:32] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/lockw4/public_html/wheresmichael/index.php on line 5
+[18-May-2011 22:07:50] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/lockw4/public_html/wheresmichael/index.php on line 167
+[18-May-2011 22:08:45] PHP Fatal error:  Uncaught exception 'EpiFoursquareNotFoundException' with message '{"meta":{"code":404,"errorType":"endpoint_error","errorDetail":"No matching venue action or aspect."},"response":{}}' in /home/lockw4/public_html/wheresmichael/EpiFoursquare.php:250
+Stack trace:
+#0 /home/lockw4/public_html/wheresmichael/EpiFoursquare.php(208): EpiFoursquareException::raise(Object(EpiCurlManager), false)
+#1 /home/lockw4/public_html/wheresmichael/index.php(167): EpiFoursquareJson->__get('response')
+#2 {main}
+  thrown in /home/lockw4/public_html/wheresmichael/EpiFoursquare.php on line 250
+[18-May-2011 22:10:22] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/lockw4/public_html/wheresmichael/index.php on line 166
+[18-May-2011 22:11:24] PHP Parse error:  syntax error, unexpected ';', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/lockw4/public_html/wheresmichael/index.php on line 166
+[18-May-2011 22:11:36] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/lockw4/public_html/wheresmichael/index.php on line 166
+[18-May-2011 22:12:42] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/lockw4/public_html/wheresmichael/index.php on line 168
+[18-May-2011 22:20:03] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/lockw4/public_html/wheresmichael/index.php on line 168
+[18-May-2011 22:32:48] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/lockw4/public_html/wheresmichael/index.php on line 168
+[18-May-2011 22:35:12] PHP Fatal error:  Cannot use object of type stdClass as array in /home/lockw4/public_html/wheresmichael/index.php on line 167

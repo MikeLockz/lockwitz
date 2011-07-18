@@ -1,0 +1,1204 @@
+[07-Jul-2011 07:03:32] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 07:03:59] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 07:04:15] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 07:04:48] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 07:05:59] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 07:07:49] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 07:11:02] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 07:33:49] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 07:33:51] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 08:02:25] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 08:38:13] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[07-Jul-2011 08:38:14] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 09:16:14] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 10:08:58] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[07-Jul-2011 10:09:00] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 12:33:31] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[07-Jul-2011 12:33:33] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 13:40:23] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[07-Jul-2011 13:40:27] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 13:42:11] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 14:31:05] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[07-Jul-2011 14:31:07] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 16:46:39] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[07-Jul-2011 16:46:48] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 16:46:50] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 17:23:54] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 17:24:45] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 17:54:29] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 18:26:31] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 18:54:02] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[07-Jul-2011 19:38:49] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[07-Jul-2011 19:39:03] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 19:39:04] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 20:55:56] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[07-Jul-2011 23:03:02] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[07-Jul-2011 23:03:04] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[07-Jul-2011 23:48:58] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[08-Jul-2011 00:11:15] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 01:20:58] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[08-Jul-2011 01:20:59] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 01:21:45] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 01:21:51] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 02:18:26] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[08-Jul-2011 02:18:28] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 02:33:14] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[08-Jul-2011 02:33:22] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 02:36:20] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 02:56:11] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 03:18:17] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 04:41:07] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[08-Jul-2011 05:18:34] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 05:19:21] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 06:09:21] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[08-Jul-2011 06:17:40] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 06:18:24] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 06:49:07] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[08-Jul-2011 06:49:08] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 07:27:42] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[08-Jul-2011 07:35:23] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 10:23:48] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[08-Jul-2011 10:23:49] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 10:29:04] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 10:29:06] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 10:30:35] WordPress database error MySQL server has gone away for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[08-Jul-2011 10:38:34] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 11:55:12] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[08-Jul-2011 11:55:16] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 11:58:52] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 13:05:40] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[08-Jul-2011 13:05:42] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 13:05:47] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 13:23:44] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 14:29:36] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[08-Jul-2011 14:29:39] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 14:29:42] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 16:38:17] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[08-Jul-2011 16:38:20] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 16:58:29] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 17:28:37] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[08-Jul-2011 17:28:38] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 17:28:44] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 18:45:44] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[08-Jul-2011 22:11:17] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[08-Jul-2011 22:11:18] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 22:38:21] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[08-Jul-2011 22:38:24] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 22:38:27] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[08-Jul-2011 23:54:57] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[08-Jul-2011 23:54:59] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 00:20:36] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 01:12:16] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[09-Jul-2011 01:12:18] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 01:49:43] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[09-Jul-2011 01:57:17] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 01:59:13] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 02:45:26] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[09-Jul-2011 02:46:47] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 02:48:06] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 03:55:08] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[09-Jul-2011 03:55:10] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 04:19:18] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 04:58:15] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[09-Jul-2011 04:58:18] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 05:34:42] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[09-Jul-2011 06:22:59] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 06:39:10] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[09-Jul-2011 06:39:12] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 06:48:42] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 07:07:26] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 07:10:26] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 07:43:00] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[09-Jul-2011 07:43:02] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 08:15:06] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 10:18:31] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[09-Jul-2011 10:18:31] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 11:39:13] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[09-Jul-2011 12:26:44] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 12:48:16] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[09-Jul-2011 12:48:18] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 14:02:03] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[09-Jul-2011 14:02:07] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 14:02:09] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 14:33:28] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[09-Jul-2011 14:33:32] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 16:32:41] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[09-Jul-2011 16:32:43] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 17:23:29] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 21:59:52] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[09-Jul-2011 21:59:54] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 21:59:56] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 22:04:42] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[09-Jul-2011 22:54:15] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[09-Jul-2011 23:05:02] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[10-Jul-2011 00:47:59] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[10-Jul-2011 00:48:00] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[10-Jul-2011 01:18:02] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[10-Jul-2011 01:19:31] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[10-Jul-2011 03:44:32] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[10-Jul-2011 04:28:08] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[10-Jul-2011 04:28:10] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[10-Jul-2011 04:41:21] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[10-Jul-2011 04:47:27] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[10-Jul-2011 05:23:55] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[10-Jul-2011 08:38:57] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[10-Jul-2011 08:38:59] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[10-Jul-2011 08:39:04] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[10-Jul-2011 10:02:22] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[10-Jul-2011 10:02:24] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[10-Jul-2011 10:58:50] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[10-Jul-2011 10:58:53] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[10-Jul-2011 12:12:06] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[10-Jul-2011 12:12:33] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[10-Jul-2011 12:33:56] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[10-Jul-2011 12:33:57] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[10-Jul-2011 14:01:08] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[10-Jul-2011 14:02:13] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[10-Jul-2011 14:03:10] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[10-Jul-2011 14:50:48] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[10-Jul-2011 14:50:50] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[10-Jul-2011 15:16:49] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[10-Jul-2011 15:29:18] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[10-Jul-2011 16:23:06] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[10-Jul-2011 16:35:18] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[10-Jul-2011 16:35:20] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[10-Jul-2011 17:34:28] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[10-Jul-2011 17:34:30] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[10-Jul-2011 18:57:41] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[10-Jul-2011 18:57:42] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[10-Jul-2011 18:57:46] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[10-Jul-2011 20:59:40] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[10-Jul-2011 21:19:35] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[10-Jul-2011 22:09:31] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[10-Jul-2011 22:09:55] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[11-Jul-2011 00:20:11] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[11-Jul-2011 01:39:35] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[11-Jul-2011 01:40:07] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[11-Jul-2011 02:13:56] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[11-Jul-2011 02:23:35] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[11-Jul-2011 03:32:56] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[11-Jul-2011 03:32:58] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[11-Jul-2011 04:48:49] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[11-Jul-2011 04:49:02] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[11-Jul-2011 06:01:49] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[11-Jul-2011 06:11:04] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[11-Jul-2011 06:58:48] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[11-Jul-2011 06:58:49] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[11-Jul-2011 07:24:22] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[11-Jul-2011 07:42:43] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[11-Jul-2011 07:43:09] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[11-Jul-2011 07:50:21] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[11-Jul-2011 08:19:11] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[11-Jul-2011 09:29:43] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[11-Jul-2011 09:29:46] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[11-Jul-2011 09:32:54] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[11-Jul-2011 10:50:26] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[11-Jul-2011 11:35:04] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[11-Jul-2011 11:35:05] PHP Warning:  simplexml_load_file(http://feeds.foursquare.com/history/https://feeds.foursquare.com/history/WQQVMDCGBKDGGOXV4ZL4BG0HJS0FHPSQ.rss.rss?count=5) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 104
+[11-Jul-2011 11:35:05] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://feeds.foursquare.com/history/https://feeds.foursquare.com/history/WQQVMDCGBKDGGOXV4ZL4BG0HJS0FHPSQ.rss.rss?count=5&quot; in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 104
+[11-Jul-2011 11:35:05] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[11-Jul-2011 12:29:19] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[11-Jul-2011 12:29:21] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[11-Jul-2011 12:29:32] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[11-Jul-2011 14:13:31] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[11-Jul-2011 14:13:34] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[11-Jul-2011 14:36:26] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[11-Jul-2011 14:36:28] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[11-Jul-2011 14:36:30] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[11-Jul-2011 16:27:11] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[11-Jul-2011 18:20:17] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[11-Jul-2011 18:42:44] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[11-Jul-2011 18:42:54] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[11-Jul-2011 19:44:15] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[11-Jul-2011 22:06:43] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[11-Jul-2011 22:06:45] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[11-Jul-2011 23:11:17] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[11-Jul-2011 23:11:22] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[11-Jul-2011 23:13:52] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[11-Jul-2011 23:17:43] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 00:06:55] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[12-Jul-2011 00:06:57] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 01:12:12] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[12-Jul-2011 01:12:14] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 01:27:03] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[12-Jul-2011 01:27:03] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 05:24:46] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[12-Jul-2011 05:24:47] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 06:05:13] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[12-Jul-2011 06:05:14] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 06:22:34] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 07:33:13] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[12-Jul-2011 07:39:16] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 09:19:01] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[12-Jul-2011 10:31:57] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[12-Jul-2011 11:12:59] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 11:17:34] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 11:33:52] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[12-Jul-2011 11:33:53] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 12:33:49] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[12-Jul-2011 12:34:08] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 13:04:37] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 13:04:39] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 13:23:47] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 14:22:09] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[12-Jul-2011 14:22:12] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 14:49:30] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[12-Jul-2011 15:46:25] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[12-Jul-2011 15:46:29] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 16:02:10] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 16:44:11] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[12-Jul-2011 16:47:29] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 16:57:00] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 17:11:14] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 18:24:08] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[12-Jul-2011 18:24:10] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 18:49:32] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[12-Jul-2011 18:49:55] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 19:37:46] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[12-Jul-2011 19:59:16] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 20:44:55] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[12-Jul-2011 20:47:01] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 20:47:03] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 21:26:46] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[12-Jul-2011 21:27:53] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 21:58:02] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 22:36:00] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[12-Jul-2011 22:36:03] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 22:37:43] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 23:24:48] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[12-Jul-2011 23:46:34] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[12-Jul-2011 23:46:36] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 00:20:01] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 00:30:14] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[13-Jul-2011 00:30:17] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 01:23:21] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 02:48:50] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[13-Jul-2011 02:48:52] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 03:45:30] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[13-Jul-2011 04:18:58] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 04:19:00] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 04:40:31] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[13-Jul-2011 04:46:27] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 05:08:20] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 05:08:22] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 05:12:40] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 06:24:20] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 06:25:23] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[13-Jul-2011 06:25:55] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 06:27:03] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[13-Jul-2011 06:27:04] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 06:27:07] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 06:48:08] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 08:45:22] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[13-Jul-2011 09:26:54] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[13-Jul-2011 10:01:13] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 11:11:53] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[13-Jul-2011 11:11:54] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 11:57:55] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[13-Jul-2011 12:05:34] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 12:05:36] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 12:10:45] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 12:47:33] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[13-Jul-2011 12:47:35] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 12:56:33] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 14:37:18] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[13-Jul-2011 14:37:20] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 14:37:24] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 14:37:30] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 14:37:33] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 15:46:19] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[13-Jul-2011 16:42:46] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[13-Jul-2011 16:42:49] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 18:03:09] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[13-Jul-2011 18:03:11] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 18:47:31] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[13-Jul-2011 18:47:33] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 19:19:58] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 19:34:13] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[13-Jul-2011 19:47:21] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 19:47:26] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 20:06:12] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 20:25:57] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 20:36:23] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[13-Jul-2011 20:38:41] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 21:02:25] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 21:21:11] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 21:43:01] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[13-Jul-2011 21:43:03] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 22:04:41] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[13-Jul-2011 23:03:37] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[14-Jul-2011 00:15:14] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[14-Jul-2011 00:15:16] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 00:59:19] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[14-Jul-2011 00:59:20] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 02:34:48] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[14-Jul-2011 02:46:40] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 03:44:47] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[14-Jul-2011 05:56:34] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[14-Jul-2011 06:15:30] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 06:32:09] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[14-Jul-2011 06:51:32] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 07:03:22] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 07:35:12] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[14-Jul-2011 07:35:15] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 08:36:04] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[14-Jul-2011 09:31:46] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[14-Jul-2011 09:31:50] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 09:54:58] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 11:02:07] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[14-Jul-2011 11:39:47] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[14-Jul-2011 11:39:47] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 13:00:20] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[14-Jul-2011 13:07:19] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 13:09:42] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 13:45:38] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[14-Jul-2011 13:45:39] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 15:04:24] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[14-Jul-2011 15:07:43] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 15:20:48] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 15:47:40] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[14-Jul-2011 15:47:41] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 15:54:14] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 16:17:52] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 16:40:13] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[14-Jul-2011 16:40:15] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 16:52:23] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 17:57:51] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[14-Jul-2011 17:57:52] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 18:13:25] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 19:10:21] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[14-Jul-2011 19:34:29] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[14-Jul-2011 19:34:31] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 20:53:09] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[14-Jul-2011 20:53:45] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 21:06:03] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 21:07:53] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 22:25:31] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[14-Jul-2011 22:25:33] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 23:09:26] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[14-Jul-2011 23:35:55] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[14-Jul-2011 23:35:56] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[14-Jul-2011 23:36:07] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 00:21:32] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 00:26:58] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[15-Jul-2011 00:29:02] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 00:29:03] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 00:48:04] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 01:46:07] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[15-Jul-2011 02:05:24] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 02:33:29] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[15-Jul-2011 02:33:55] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 03:19:18] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 03:34:53] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[15-Jul-2011 03:34:54] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 03:48:30] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 04:01:13] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 05:05:15] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[15-Jul-2011 06:17:28] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[15-Jul-2011 06:17:29] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 06:24:50] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 06:31:35] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[15-Jul-2011 06:50:39] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 06:50:48] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 07:31:14] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[15-Jul-2011 07:50:10] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 09:18:30] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[15-Jul-2011 09:18:31] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 09:30:51] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[15-Jul-2011 09:30:51] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 10:13:38] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 12:11:12] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[15-Jul-2011 13:27:18] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 15:08:03] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[15-Jul-2011 15:08:04] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 16:19:20] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[15-Jul-2011 16:19:21] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 16:38:38] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[15-Jul-2011 16:38:40] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 17:52:47] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[15-Jul-2011 17:52:50] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 18:31:41] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[15-Jul-2011 18:31:42] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 19:10:38] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 19:59:08] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[15-Jul-2011 20:05:09] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 20:20:48] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 21:30:00] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[15-Jul-2011 22:21:43] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 23:05:58] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[15-Jul-2011 23:05:59] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[15-Jul-2011 23:06:01] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 00:51:16] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[16-Jul-2011 00:51:20] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 02:07:38] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[16-Jul-2011 02:07:39] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 02:13:06] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 03:14:41] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[16-Jul-2011 03:14:48] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 05:31:39] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[16-Jul-2011 05:31:42] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 05:32:09] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 06:08:48] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 06:08:50] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 06:10:32] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 06:30:36] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[16-Jul-2011 07:50:03] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[16-Jul-2011 07:50:04] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 10:38:26] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[16-Jul-2011 10:38:28] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 11:02:25] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 11:02:27] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 12:45:04] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 12:49:39] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[16-Jul-2011 12:49:41] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 12:49:51] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 13:04:52] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 13:07:28] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 13:11:53] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 13:11:53] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 13:36:33] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[16-Jul-2011 13:36:36] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 14:17:44] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 16:51:36] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[16-Jul-2011 16:51:37] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 17:52:05] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[16-Jul-2011 17:52:07] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 18:06:52] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 18:41:35] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[16-Jul-2011 18:41:37] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 19:55:09] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[16-Jul-2011 19:55:13] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 19:58:06] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[16-Jul-2011 22:36:11] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[16-Jul-2011 23:47:50] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[16-Jul-2011 23:47:51] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 00:36:38] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[17-Jul-2011 00:36:39] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 00:36:41] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 00:38:10] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 00:38:12] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 01:09:57] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 01:50:12] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[17-Jul-2011 03:50:36] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[17-Jul-2011 03:50:38] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 04:11:59] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 04:58:37] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[17-Jul-2011 07:16:54] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[17-Jul-2011 07:16:56] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 07:58:15] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[17-Jul-2011 07:58:16] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 08:17:57] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 08:25:53] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 08:26:30] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 08:38:37] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[17-Jul-2011 08:38:40] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 08:57:25] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 09:02:58] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 09:17:30] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 09:34:22] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[17-Jul-2011 10:16:05] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 10:31:57] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[17-Jul-2011 11:02:06] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 11:12:40] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 11:31:13] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[17-Jul-2011 11:46:51] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 13:14:07] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[17-Jul-2011 14:16:11] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[17-Jul-2011 14:16:13] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 14:16:15] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 16:42:28] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[17-Jul-2011 16:42:30] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 17:01:23] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 17:23:55] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 17:29:12] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[17-Jul-2011 17:29:14] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 17:29:16] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 18:05:25] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 18:05:27] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 18:29:19] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[17-Jul-2011 18:49:51] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 18:49:53] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 19:40:21] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[17-Jul-2011 19:40:22] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 20:14:34] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 21:20:47] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[17-Jul-2011 22:11:06] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[17-Jul-2011 23:00:36] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[17-Jul-2011 23:00:38] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 23:13:40] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[17-Jul-2011 23:29:15] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[17-Jul-2011 23:29:16] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[18-Jul-2011 00:28:54] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[18-Jul-2011 00:28:56] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[18-Jul-2011 00:38:51] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[18-Jul-2011 02:18:48] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[18-Jul-2011 02:18:50] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[18-Jul-2011 02:46:02] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[18-Jul-2011 02:47:23] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[18-Jul-2011 04:48:18] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[18-Jul-2011 05:29:08] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[18-Jul-2011 07:32:11] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[18-Jul-2011 07:32:11] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[18-Jul-2011 07:32:13] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[18-Jul-2011 08:38:55] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[18-Jul-2011 09:34:59] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[18-Jul-2011 09:35:01] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[18-Jul-2011 10:26:08] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[18-Jul-2011 13:06:08] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[18-Jul-2011 13:06:09] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[18-Jul-2011 14:14:46] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[18-Jul-2011 14:14:48] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[18-Jul-2011 14:14:50] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[18-Jul-2011 14:14:51] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[18-Jul-2011 15:35:19] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[18-Jul-2011 15:37:27] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[18-Jul-2011 16:15:16] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[18-Jul-2011 16:31:32] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[18-Jul-2011 16:31:34] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[18-Jul-2011 16:31:47] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[18-Jul-2011 19:31:59] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[18-Jul-2011 19:32:01] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[18-Jul-2011 20:29:48] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
+[18-Jul-2011 20:32:36] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[18-Jul-2011 20:32:38] PHP Warning:  Invalid argument supplied for foreach() in /home/lockw4/public_html/wp-content/plugins/foursquare-integration/foursquare-integration.php on line 112
+[18-Jul-2011 22:44:19] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 for query 
+		INSERT IGNORE INTO wp_hl_twitter_tweets 
+		(twitter_tweet_id, twitter_user_id, tweet, created, source, reply_tweet_id, reply_user_id, reply_screen_name, lat, lon)
+		VALUES  made by do_action_ref_array, call_user_func_array, hl_twitter_cron_handler, hl_twitter_import, hl_twitter_import_tweets
